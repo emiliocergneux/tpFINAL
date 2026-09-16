@@ -1,2 +1,0 @@
-
-  //Guardar_Estado;
